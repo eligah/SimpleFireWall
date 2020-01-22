@@ -1,0 +1,13 @@
+inbound,tcp,80,192.168.1.2,1
+inbound,tcp,79,192.168.1.2,0
+outbound,tcp,10234,192.168.10.11,1
+outbound,tcp,10000,192.168.10.9,0
+outbound,tcp,10000,192.168.10.10,0
+outbound,tcp,20000,192.168.10.11,1
+outbound,tcp,10234,192.168.10.9,0
+inbound,tcp,81,192.168.1.2,0
+inbound,udp,24,52.12.48.92,0
+inbound,udp,3000,192.168.1.0,1
+inbound,udp,3001,192.2.0.0,0
+inbound,udp,3999,192.168.255.255,1
+inbound,udp,4001,192.168.255.255,0
