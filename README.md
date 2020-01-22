@@ -42,4 +42,4 @@ testing 13 inbound udp 4001 192.168.255.255 passed
 2. The interval tree may become unbalanced with the number of insertion. I will try to merge the interval and build a new tree if it is too unbalanced. 
 
 # Interesed team
-I am very interesed in Platform Team first and Policy Team second. Hope to join you in 2020 summer!!
+I am very interesed in 1. Platform Team and 2. Policy Team second. Hope to join you in 2020 summer!!
